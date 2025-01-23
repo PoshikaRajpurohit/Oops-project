@@ -92,17 +92,17 @@
 
 // 3  Simple Message
 
-// class simple{
+// class employee{
 //     constructor(){
-//         console.log("Simple Message printed......");
+//         console.log("You're a key part of our team");
 //      }
 // }
-//      let message = new simple();
+//      let message = new employee();
 
 
 
 // EXPECTED-OUTPUT
-// Simple Message printed......
+// You're a key part of our team
 
 
 
